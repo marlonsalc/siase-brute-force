@@ -1,8 +1,8 @@
 ######################################################################################################
-# Title: Brute force                                                                                 #
-# Author: Tanvir Hossain Antu                                                                        #
-# Github : https://github.com/Antu7      
-# If you use the code give me the credit please #
+# Title: Siase Brute force                                                                                 #
+# Author: marlonsalc                                                                        #
+# Github : https://github.com/marlonsalc/siase-brute-force/blob/main/bruteforce.py     
+#Credits to : https://github.com/Antu7/python-bruteForce #
 ######################################################################################################
 
 print (""" 
