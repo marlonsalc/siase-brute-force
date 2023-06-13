@@ -12,3 +12,7 @@ python3 bruteforce.py
 ```
 
 And enter the user into
+
+##TODO
+
+* Add a option to let the user chooose the dictionary file to use
